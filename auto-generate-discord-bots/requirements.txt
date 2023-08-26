@@ -1,6 +1,0 @@
-threading
-colorama
-discord
-time
-discord.py
-requests
