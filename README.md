@@ -1,4 +1,4 @@
-# Auto generate discord bots
+![yforall](https://github.com/zuqwz/auto-generate-discord-bots/assets/141191685/e6e46848-f705-4294-823c-2d1ab07cedfa)# Auto generate discord bots
 An open-source code Created using BAI chat took like 12 hours because the bot keeps saying "As an ai language i dont blah blah blah" and giving me a non workin code so i had to fix it
 (joining servers doesnt work for now so when it asks if you wanna make the bot joins a server type n and enter)
 
@@ -16,6 +16,10 @@ If installing packages from the code doesnt work open cmd and execute this comma
 Basically generates discord applications its pretty buggy and shi i dont know if ill update this because its stupid
 It uses discord tokens for the rate limition so if you got alot of alts and wanna mass dm someone this bot is for you
 if you get an error when creating application that says "unauthorized" you probably need more discord tokens or if you dont have more discord Tokens like 1 just open the python code as many times you want it to create and make the thread 1 for less chance to get that error if anyone knows how to fix the error "unauthorized" please add me on discord "valray" or "valray#5901"
+![yforall](https://github.com/zuqwz/auto-generate-discord-bots/assets/141191685/325f3a4f-5260-4f24-a5e6-a11911397e29)
+![nforall](https://github.com/zuqwz/auto-generate-discord-bots/assets/141191685/613d9ec9-851e-4ed1-891b-8a3d68ee9ad0)
+![massdmpic](https://github.com/zuqwz/auto-generate-discord-bots/assets/141191685/48ee194c-28cc-4bfb-9e0a-7678512bbd7a)
+![dmmingbots](https://github.com/zuqwz/auto-generate-discord-bots/assets/141191685/810801a2-e1fd-4a85-b968-56aad74a0d33)
 
 # Other
 Thank you for downloading this garbage tool that generates bot applications
