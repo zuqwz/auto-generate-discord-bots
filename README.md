@@ -1,4 +1,5 @@
-![yforall](https://github.com/zuqwz/auto-generate-discord-bots/assets/141191685/e6e46848-f705-4294-823c-2d1ab07cedfa)# Auto generate discord bots
+# Auto generate discord bots
+![showinggui](https://github.com/zuqwz/auto-generate-discord-bots/assets/141191685/0b5c301e-e7ee-43e8-aa03-552d9fa3a8bf)
 An open-source code Created using BAI chat took like 12 hours because the bot keeps saying "As an ai language i dont blah blah blah" and giving me a non workin code so i had to fix it
 (joining servers doesnt work for now so when it asks if you wanna make the bot joins a server type n and enter)
 
