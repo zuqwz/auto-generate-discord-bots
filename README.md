@@ -1,8 +1,8 @@
 # Auto generate discord bots
-Created using BAI chat took like 10 hours because the bot keeps saying "As an ai language i dont blah blah blah"
+An open-source code Created using BAI chat took like 10 hours because the bot keeps saying "As an ai language i dont blah blah blah"
 
 # MASS DM
-mass dm created by
+mass dm created by ReyZ0309 check MASSREADME.MD to know how to use it (https://github.com/ReyZ0309/Discord-Mass-DM)
 
 # How To Use?
 Download it
