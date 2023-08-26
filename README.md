@@ -1,5 +1,6 @@
 # Auto generate discord bots
 An open-source code Created using BAI chat took like 12 hours because the bot keeps saying "As an ai language i dont blah blah blah" and giving me a non workin code so i had to fix it
+(joining servers doesnt work for now so when it asks if you wanna make the bot joins a server type n and enter)
 
 # MASS DM
 Mass dm created by ReyZ0309 check MASSREADME.MD to know how to use it (https://github.com/ReyZ0309/Discord-Mass-DM)
